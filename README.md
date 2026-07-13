@@ -23,4 +23,4 @@ Um cartão de visita digital minimalista, moderno e responsivo. Desenvolvido com
 
 ## 🔗 Acesso ao Projeto
 
-Você pode visualizar a versão final aqui: **mydigitalcard-glzzdolor.vercel.app**
+Você pode visualizar a versão final aqui: **https://mydigitalcard-glzzdolor.vercel.app**
