@@ -19,7 +19,7 @@ Um cartão de visita digital minimalista, moderno e responsivo. Desenvolvido com
 
 ## 📸 Pré-visualização
 
-
+![Meu Cartão Digital](assets/digitalcard.PNG)
 
 ## 🔗 Acesso ao Projeto
 
